@@ -1,0 +1,3022 @@
+[
+  {
+    "en": "a",
+    "zh": "一個",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "about",
+    "zh": "關於",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "add",
+    "zh": "加",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "afternoon",
+    "zh": "下午",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "again",
+    "zh": "再一次",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "Alex",
+    "zh": "亞歷克斯",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "Alice",
+    "zh": "愛麗絲",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "alien",
+    "zh": "外星人",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "alphabet",
+    "zh": "字母",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "an",
+    "zh": "一個",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "and",
+    "zh": "和",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "angry",
+    "zh": "生氣的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "animal",
+    "zh": "動物",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "Ann",
+    "zh": "安",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "answer",
+    "zh": "回答",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "apartment",
+    "zh": "公寓",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "apple",
+    "zh": "蘋果",
+    "icon_type": "emoji",
+    "icon": "🍎"
+  },
+  {
+    "en": "arm",
+    "zh": "手臂",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "armchair",
+    "zh": "扶手椅",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ask",
+    "zh": "問",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "baby",
+    "zh": "嬰兒",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bedroom",
+    "zh": "臥室",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bag",
+    "zh": "袋子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ball",
+    "zh": "球",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "balloon",
+    "zh": "氣球",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "banana",
+    "zh": "香蕉",
+    "icon_type": "emoji",
+    "icon": "🍌"
+  },
+  {
+    "en": "baseball",
+    "zh": "棒球",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "baseball cap",
+    "zh": "棒球帽",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "basketball",
+    "zh": "籃球",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bat",
+    "zh": "蝙蝠",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bath",
+    "zh": "浴缸",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bathroom",
+    "zh": "浴室",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "be",
+    "zh": "是",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "beach",
+    "zh": "海灘",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bean",
+    "zh": "豆子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bear",
+    "zh": "熊",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "beautiful",
+    "zh": "美麗的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bed",
+    "zh": "床",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bedroom",
+    "zh": "臥室",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bee",
+    "zh": "蜜蜂",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "behind",
+    "zh": "在後面",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "Ben",
+    "zh": "班",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "between",
+    "zh": "在中間",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "big",
+    "zh": "大的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bike",
+    "zh": "腳踏車",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "Bill",
+    "zh": "比爾",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bird",
+    "zh": "鳥",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "birthday",
+    "zh": "生日",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "black",
+    "zh": "黑色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "blue",
+    "zh": "藍色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "board",
+    "zh": "板子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "board game",
+    "zh": "桌遊",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "boat",
+    "zh": "船",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "body",
+    "zh": "身體",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "book",
+    "zh": "書",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__book-open-page-variant_svg",
+    "icon_id": "mdi:book-open-page-variant"
+  },
+  {
+    "en": "bookcase",
+    "zh": "書櫃",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bookshop",
+    "zh": "書店",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "boots",
+    "zh": "靴子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bounce",
+    "zh": "彈跳",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "box",
+    "zh": "盒子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "boy",
+    "zh": "男孩",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bread",
+    "zh": "麵包",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "breakfast",
+    "zh": "早餐",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "brother",
+    "zh": "哥哥／弟弟",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "brown",
+    "zh": "棕色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "burger",
+    "zh": "漢堡",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bus",
+    "zh": "公車",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__bus_svg",
+    "icon_id": "mdi:bus"
+  },
+  {
+    "en": "but",
+    "zh": "但是",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "bye",
+    "zh": "再見",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "cake",
+    "zh": "蛋糕",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "camera",
+    "zh": "相機",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "can",
+    "zh": "能",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "candy",
+    "zh": "糖果",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "car",
+    "zh": "汽車",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__car_svg",
+    "icon_id": "mdi:car"
+  },
+  {
+    "en": "carrot",
+    "zh": "紅蘿蔔",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "cat",
+    "zh": "貓",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__cat_svg",
+    "icon_id": "mdi:cat"
+  },
+  {
+    "en": "catch",
+    "zh": "接住",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "chair",
+    "zh": "椅子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "chicken",
+    "zh": "雞",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "child/children",
+    "zh": "小孩",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "chips",
+    "zh": "洋芋片",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "chocolate",
+    "zh": "巧克力",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "choose",
+    "zh": "選擇",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "clap",
+    "zh": "拍手",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "classmate",
+    "zh": "同學",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "classroom",
+    "zh": "教室",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "clean",
+    "zh": "乾淨的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "clock",
+    "zh": "時鐘",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "close",
+    "zh": "關",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "closed",
+    "zh": "關閉的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "clothes",
+    "zh": "衣服",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "coconut",
+    "zh": "椰子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "colour",
+    "zh": "顏色",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "come",
+    "zh": "來",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "complete",
+    "zh": "完成",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "computer",
+    "zh": "電腦",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "cool",
+    "zh": "涼爽的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "correct",
+    "zh": "正確的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "count",
+    "zh": "數",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "cousin",
+    "zh": "表兄弟姊妹",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "cow",
+    "zh": "牛",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "crocodile",
+    "zh": "鱷魚",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "day",
+    "zh": "天",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "desk",
+    "zh": "書桌",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "dinner",
+    "zh": "晚餐",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "dog",
+    "zh": "狗",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__dog_svg",
+    "icon_id": "mdi:dog"
+  },
+  {
+    "en": "doll",
+    "zh": "娃娃",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "door",
+    "zh": "門",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "draw",
+    "zh": "畫",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "dress",
+    "zh": "洋裝",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "drink",
+    "zh": "喝",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__cup-water_svg",
+    "icon_id": "mdi:cup-water"
+  },
+  {
+    "en": "drive",
+    "zh": "開車",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "duck",
+    "zh": "鴨子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ear",
+    "zh": "耳朵",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "eat",
+    "zh": "吃",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__silverware-fork-knife_svg",
+    "icon_id": "mdi:silverware-fork-knife"
+  },
+  {
+    "en": "egg",
+    "zh": "蛋",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "elephant",
+    "zh": "大象",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "end",
+    "zh": "結束",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "English",
+    "zh": "英文",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "evening",
+    "zh": "晚上",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "eye",
+    "zh": "眼睛",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "face",
+    "zh": "臉",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "family",
+    "zh": "家庭",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "father",
+    "zh": "爸爸",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "find",
+    "zh": "找到",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "fish",
+    "zh": "魚",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "fly",
+    "zh": "飛",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "food",
+    "zh": "食物",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "foot/feet",
+    "zh": "腳",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "friend",
+    "zh": "朋友",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "frog",
+    "zh": "青蛙",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "fruit",
+    "zh": "水果",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "fun",
+    "zh": "有趣的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "funny",
+    "zh": "好笑的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "garden",
+    "zh": "花園",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "get",
+    "zh": "得到",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "giraffe",
+    "zh": "長頸鹿",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "girl",
+    "zh": "女孩",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "glasses",
+    "zh": "眼鏡",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "go",
+    "zh": "去",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "go to bed",
+    "zh": "去睡覺",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "go to sleep",
+    "zh": "睡覺",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "good",
+    "zh": "好的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "goodbye",
+    "zh": "再見",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "grandfather",
+    "zh": "爺爺／外公",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "grandmother",
+    "zh": "奶奶／外婆",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "grape",
+    "zh": "葡萄",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "green",
+    "zh": "綠色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "hair",
+    "zh": "頭髮",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "hand",
+    "zh": "手",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "handbag",
+    "zh": "手提包",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "happy",
+    "zh": "快樂的",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__emoticon-happy-outline_svg",
+    "icon_id": "mdi:emoticon-happy-outline"
+  },
+  {
+    "en": "hat",
+    "zh": "帽子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "head",
+    "zh": "頭",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "hello",
+    "zh": "你好",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "here",
+    "zh": "這裡",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "horse",
+    "zh": "馬",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "house",
+    "zh": "房子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "how",
+    "zh": "如何",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "how many",
+    "zh": "多少",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "how old",
+    "zh": "幾歲",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "hungry",
+    "zh": "餓的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ice cream",
+    "zh": "冰淇淋",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "in",
+    "zh": "在裡面",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "in front of",
+    "zh": "在前面",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "it",
+    "zh": "它",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "jacket",
+    "zh": "外套",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "juice",
+    "zh": "果汁",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "jump",
+    "zh": "跳",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "kick",
+    "zh": "踢",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "kid",
+    "zh": "小孩",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "kitchen",
+    "zh": "廚房",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "know",
+    "zh": "知道",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "lamp",
+    "zh": "燈",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "learn",
+    "zh": "學習",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "leg",
+    "zh": "腿",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "lemon",
+    "zh": "檸檬",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "like",
+    "zh": "喜歡",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "line",
+    "zh": "線",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "listen",
+    "zh": "聽",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "live",
+    "zh": "住",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "long",
+    "zh": "長的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "look",
+    "zh": "看",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "lots of",
+    "zh": "很多",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "love",
+    "zh": "愛",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "lunch",
+    "zh": "午餐",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "man/men",
+    "zh": "男人",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "many",
+    "zh": "許多",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "me",
+    "zh": "我",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "meat",
+    "zh": "肉",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "milk",
+    "zh": "牛奶",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "mine",
+    "zh": "我的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "mirror",
+    "zh": "鏡子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "monkey",
+    "zh": "猴子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "monster",
+    "zh": "怪物",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "morning",
+    "zh": "早上",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "mother",
+    "zh": "媽媽",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "mouse/mice",
+    "zh": "老鼠",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "mouth",
+    "zh": "嘴巴",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "mum",
+    "zh": "媽媽",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "name",
+    "zh": "名字",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "new",
+    "zh": "新的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "nice",
+    "zh": "好的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "night",
+    "zh": "晚上",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "no",
+    "zh": "不",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "nose",
+    "zh": "鼻子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "not",
+    "zh": "不",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "number",
+    "zh": "數字",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "OK",
+    "zh": "好",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "old",
+    "zh": "舊的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "on",
+    "zh": "在…上",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "one",
+    "zh": "一",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "onion",
+    "zh": "洋蔥",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "open",
+    "zh": "打開",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "or",
+    "zh": "或者",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "orange",
+    "zh": "橘色／橘子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "our",
+    "zh": "我們的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ours",
+    "zh": "我們的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "page",
+    "zh": "頁",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "paint",
+    "zh": "畫畫",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "park",
+    "zh": "公園",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "part",
+    "zh": "部分",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "pear",
+    "zh": "梨子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "pen",
+    "zh": "筆",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "pencil",
+    "zh": "鉛筆",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "people",
+    "zh": "人們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "pet",
+    "zh": "寵物",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "phone",
+    "zh": "電話",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "photo",
+    "zh": "照片",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "piano",
+    "zh": "鋼琴",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "picture",
+    "zh": "圖片",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "pick up",
+    "zh": "撿起",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "pie",
+    "zh": "派",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "pig",
+    "zh": "豬",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "pineapple",
+    "zh": "鳳梨",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "pink",
+    "zh": "粉紅色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "plane",
+    "zh": "飛機",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "play",
+    "zh": "玩",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "playground",
+    "zh": "遊樂場",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "please",
+    "zh": "請",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "point",
+    "zh": "指",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "polar bear",
+    "zh": "北極熊",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "potato",
+    "zh": "馬鈴薯",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "purple",
+    "zh": "紫色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "put",
+    "zh": "放",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "question",
+    "zh": "問題",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "radio",
+    "zh": "收音機",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "read",
+    "zh": "閱讀",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "really",
+    "zh": "真的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "red",
+    "zh": "紅色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "rice",
+    "zh": "米飯",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ride",
+    "zh": "騎",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "right",
+    "zh": "右邊的／正確的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "robot",
+    "zh": "機器人",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "room",
+    "zh": "房間",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "rubber",
+    "zh": "橡皮擦",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ruler",
+    "zh": "尺",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "run",
+    "zh": "跑",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__run_svg",
+    "icon_id": "mdi:run"
+  },
+  {
+    "en": "sad",
+    "zh": "難過的",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__emoticon-sad-outline_svg",
+    "icon_id": "mdi:emoticon-sad-outline"
+  },
+  {
+    "en": "sand",
+    "zh": "沙子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "say",
+    "zh": "說",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "school",
+    "zh": "學校",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__school_svg",
+    "icon_id": "mdi:school"
+  },
+  {
+    "en": "sea",
+    "zh": "海",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "see",
+    "zh": "看見",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sentence",
+    "zh": "句子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "shark",
+    "zh": "鯊魚",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "she",
+    "zh": "她",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sheep",
+    "zh": "羊",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "shirt",
+    "zh": "襯衫",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "shoe",
+    "zh": "鞋子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "shop",
+    "zh": "商店",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "short",
+    "zh": "短的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "shorts",
+    "zh": "短褲",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sing",
+    "zh": "唱歌",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sister",
+    "zh": "姊妹",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sit",
+    "zh": "坐",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "skateboard",
+    "zh": "滑板",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "skirt",
+    "zh": "裙子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sleep",
+    "zh": "睡覺",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "small",
+    "zh": "小的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "smile",
+    "zh": "微笑",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "snake",
+    "zh": "蛇",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "snow",
+    "zh": "雪",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "so",
+    "zh": "所以",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sofa",
+    "zh": "沙發",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "some",
+    "zh": "一些",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "song",
+    "zh": "歌曲",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sorry",
+    "zh": "對不起",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sport",
+    "zh": "運動",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "stand",
+    "zh": "站",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "start",
+    "zh": "開始",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "stop",
+    "zh": "停止",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "street",
+    "zh": "街道",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sun",
+    "zh": "太陽",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sweater",
+    "zh": "毛衣",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "table",
+    "zh": "桌子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "take a photo",
+    "zh": "拍照",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "talk",
+    "zh": "說話",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tall",
+    "zh": "高的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "teacher",
+    "zh": "老師",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__human-male-board_svg",
+    "icon_id": "mdi:human-male-board"
+  },
+  {
+    "en": "teddy",
+    "zh": "泰迪熊",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "television",
+    "zh": "電視",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tell",
+    "zh": "告訴",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tennis",
+    "zh": "網球",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "thank you",
+    "zh": "謝謝",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "that",
+    "zh": "那個",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "the",
+    "zh": "這個",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "their",
+    "zh": "他們的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "them",
+    "zh": "他們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "then",
+    "zh": "然後",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "there",
+    "zh": "那裡",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "these",
+    "zh": "這些",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "they",
+    "zh": "他們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "thing",
+    "zh": "東西",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "this",
+    "zh": "這個",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "those",
+    "zh": "那些",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "throw",
+    "zh": "丟",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tiger",
+    "zh": "老虎",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "to",
+    "zh": "到",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "today",
+    "zh": "今天",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tomato",
+    "zh": "番茄",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "too",
+    "zh": "也",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "train",
+    "zh": "火車",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__train_svg",
+    "icon_id": "mdi:train"
+  },
+  {
+    "en": "tree",
+    "zh": "樹",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "trousers",
+    "zh": "長褲",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "truck",
+    "zh": "卡車",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "try",
+    "zh": "嘗試",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "T-shirt",
+    "zh": "T恤",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ugly",
+    "zh": "醜的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "under",
+    "zh": "在下面",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "understand",
+    "zh": "了解",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "us",
+    "zh": "我們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "very",
+    "zh": "非常",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "walk",
+    "zh": "走路",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__walk_svg",
+    "icon_id": "mdi:walk"
+  },
+  {
+    "en": "wall",
+    "zh": "牆壁",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "want",
+    "zh": "想要",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "watch",
+    "zh": "看",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "water",
+    "zh": "水",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "watermelon",
+    "zh": "西瓜",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "we",
+    "zh": "我們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "well done",
+    "zh": "做得好",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "wear",
+    "zh": "穿",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "window",
+    "zh": "窗戶",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "with",
+    "zh": "和",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "word",
+    "zh": "單字",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "would like",
+    "zh": "想要",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "wow",
+    "zh": "哇",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "write",
+    "zh": "寫",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "year",
+    "zh": "年",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yellow",
+    "zh": "黃色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yes",
+    "zh": "是",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "you",
+    "zh": "你",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "young",
+    "zh": "年輕的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "your",
+    "zh": "你的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yours",
+    "zh": "你的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "zoo",
+    "zh": "動物園",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "skateboarding",
+    "zh": "滑板運動",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sweets",
+    "zh": "糖果",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "swim",
+    "zh": "游泳",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "table tennis",
+    "zh": "乒乓球",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tablet",
+    "zh": "平板電腦",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tail",
+    "zh": "尾巴",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "talk",
+    "zh": "說話",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "take a photo",
+    "zh": "拍照",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tiger",
+    "zh": "老虎",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "thing",
+    "zh": "事情",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "those",
+    "zh": "那些",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "this",
+    "zh": "這個",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "throw",
+    "zh": "丟",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tick",
+    "zh": "打勾",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "to",
+    "zh": "到",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "today",
+    "zh": "今天",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tomato",
+    "zh": "番茄",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "too",
+    "zh": "也",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "train",
+    "zh": "火車",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__train_svg",
+    "icon_id": "mdi:train"
+  },
+  {
+    "en": "tree",
+    "zh": "樹",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "trousers",
+    "zh": "長褲",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "truck",
+    "zh": "卡車",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "try",
+    "zh": "嘗試",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ugly",
+    "zh": "醜的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "under",
+    "zh": "在下面",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "understand",
+    "zh": "了解",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "us",
+    "zh": "我們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "very",
+    "zh": "非常",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "walk",
+    "zh": "走",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__walk_svg",
+    "icon_id": "mdi:walk"
+  },
+  {
+    "en": "wall",
+    "zh": "牆",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "want",
+    "zh": "想要",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "watch",
+    "zh": "看",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "water",
+    "zh": "水",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "watermelon",
+    "zh": "西瓜",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "we",
+    "zh": "我們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "wear",
+    "zh": "穿",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "well",
+    "zh": "好",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "well done",
+    "zh": "做得好",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "window",
+    "zh": "窗戶",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "with",
+    "zh": "和",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "woman/women",
+    "zh": "女人",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "word",
+    "zh": "單字",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "would like",
+    "zh": "想要",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "wow",
+    "zh": "哇",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "write",
+    "zh": "寫",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "year",
+    "zh": "年",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yellow",
+    "zh": "黃色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yes",
+    "zh": "是",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "you",
+    "zh": "你",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "young",
+    "zh": "年輕的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "your",
+    "zh": "你的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yours",
+    "zh": "你的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "zebra",
+    "zh": "斑馬",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "point",
+    "zh": "指",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "say",
+    "zh": "說",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "scary",
+    "zh": "可怕的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "school",
+    "zh": "學校",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__school_svg",
+    "icon_id": "mdi:school"
+  },
+  {
+    "en": "sea",
+    "zh": "海",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "see",
+    "zh": "看見",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "see you!",
+    "zh": "再見",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sentence",
+    "zh": "句子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "she",
+    "zh": "她",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "shell",
+    "zh": "貝殼",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "ship",
+    "zh": "船",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "shoe",
+    "zh": "鞋子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "short",
+    "zh": "短的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "show",
+    "zh": "展示",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "silly",
+    "zh": "傻的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sister",
+    "zh": "姊妹",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sit",
+    "zh": "坐",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "snow",
+    "zh": "雪",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "some",
+    "zh": "一些",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "store",
+    "zh": "商店",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "start",
+    "zh": "開始",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "stop",
+    "zh": "停止",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "street",
+    "zh": "街道",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "sun",
+    "zh": "太陽",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "table",
+    "zh": "桌子",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "television",
+    "zh": "電視",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "tell",
+    "zh": "告訴",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "thank you",
+    "zh": "謝謝",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "that",
+    "zh": "那個",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "the",
+    "zh": "這個",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "their",
+    "zh": "他們的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "them",
+    "zh": "他們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "then",
+    "zh": "然後",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "there",
+    "zh": "那裡",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "they",
+    "zh": "他們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "thing",
+    "zh": "東西",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "today",
+    "zh": "今天",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "train",
+    "zh": "火車",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__train_svg",
+    "icon_id": "mdi:train"
+  },
+  {
+    "en": "tree",
+    "zh": "樹",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "truck",
+    "zh": "卡車",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "try",
+    "zh": "嘗試",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "us",
+    "zh": "我們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "very",
+    "zh": "非常",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "walk",
+    "zh": "走路",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__walk_svg",
+    "icon_id": "mdi:walk"
+  },
+  {
+    "en": "wall",
+    "zh": "牆壁",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "want",
+    "zh": "想要",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "watch",
+    "zh": "看",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "water",
+    "zh": "水",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "window",
+    "zh": "窗戶",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "with",
+    "zh": "和",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "word",
+    "zh": "字",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "write",
+    "zh": "寫",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "year",
+    "zh": "年",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yellow",
+    "zh": "黃色",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yes",
+    "zh": "是",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "you",
+    "zh": "你",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "your",
+    "zh": "你的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "zebra",
+    "zh": "斑馬",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "wave",
+    "zh": "揮手",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "we",
+    "zh": "我們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "wall",
+    "zh": "牆",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "want",
+    "zh": "想",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "watch",
+    "zh": "看",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "water",
+    "zh": "水",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "window",
+    "zh": "窗戶",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "with",
+    "zh": "和",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "woman/women",
+    "zh": "女人",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "word",
+    "zh": "單字",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "write",
+    "zh": "寫",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "year",
+    "zh": "年",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yes",
+    "zh": "是",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "you",
+    "zh": "你",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "your",
+    "zh": "你的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yours",
+    "zh": "你的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "young",
+    "zh": "年輕的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "zebra",
+    "zh": "斑馬",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "watch",
+    "zh": "看",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "want",
+    "zh": "想要",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "walk",
+    "zh": "走",
+    "icon_type": "svg",
+    "icon": "icons\\mdi__walk_svg",
+    "icon_id": "mdi:walk"
+  },
+  {
+    "en": "water",
+    "zh": "水",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "window",
+    "zh": "窗戶",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "with",
+    "zh": "和",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "we",
+    "zh": "我們",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "wear",
+    "zh": "穿",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "well",
+    "zh": "好",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "wow",
+    "zh": "哇",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "write",
+    "zh": "寫",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "year",
+    "zh": "年",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yellow",
+    "zh": "黃色的",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "yes",
+    "zh": "是",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  },
+  {
+    "en": "zebra",
+    "zh": "斑馬",
+    "icon_type": "fallback",
+    "icon": "⭐"
+  }
+]
